@@ -4,6 +4,9 @@ Image Classifier with **Tensorflow** using **Inception-V3** model having a final
 
 Built as backend for my Academic project. The Android app reduces the hustle at Lost and Found departments of airports by classifying items to below following types and thus making the claiming process easy.
 
+The classifier was trained in a docker container.
+
+This repo contains only image classifier as this is my part of the work in the team.
 
 The labels are:
 - white watch
@@ -22,3 +25,4 @@ The labels are:
 - redbag
 - laptop
 - red wallet
+
