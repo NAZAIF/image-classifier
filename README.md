@@ -1,20 +1,24 @@
-# image-classifier for my mini project which is built using Tensorflow and Python. It classifies items into frequently lost items at Airports.
-The project is an Android app that is built using Xamarin Forms and the project name is AIRPORT LOST AND FOUND MANAGEMENT APPLICATION.
-This classifier has got 86% final test accuracy.
-It classifies items from :-
-white watch
-green hand bag
-camera
-white wallet
-green watch
-green wallet
-red watch
-mobile
-white hand bag
-passport 
-black wallet
-black watch
-blackbag
-redbag
-laptop
-red wallet
+# Airports Lost and Found Management App
+
+Image Classifier with **Tensorflow** using **Inception-V3** model having a final accuracy of 87%.
+
+Built as backend for my Academic project. The Android app reduces the hustle at Lost and Found departments of airports by classifying items to below following types and thus making the claiming process easy.
+
+
+The labels are:
+- white watch
+- green hand bag
+- camera
+- white wallet
+- green watch
+- green wallet
+- red watch
+- mobile
+- white hand bag
+- passport 
+- black wallet
+- black watch
+- blackbag
+- redbag
+- laptop
+- red wallet
