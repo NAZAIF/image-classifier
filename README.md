@@ -4,7 +4,7 @@ Image Classifier with **Tensorflow** using **Inception-V3** model having a final
 
 Built as backend for my Academic project. The Android app reduces the hustle at Lost and Found departments of airports by classifying items to below following types and thus making the claiming process easy.
 
-The classifier was trained in a docker container.
+The classifier was trained in a [docker container](https://www.docker.com/resources/what-container).
 
 This repo contains only image classifier as this is my part of the work in the team.
 
